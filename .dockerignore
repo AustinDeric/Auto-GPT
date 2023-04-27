@@ -6,3 +6,6 @@
 *.md
 *.png
 !BULLETIN.md
+
+# Milvus memory backend artifacts
+volumes/

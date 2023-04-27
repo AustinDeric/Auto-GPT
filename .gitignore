@@ -163,3 +163,6 @@ openai/
 
 # news
 CURRENT_BULLETIN.md
+
+# Milvus memory backend artifacts
+volumes/
